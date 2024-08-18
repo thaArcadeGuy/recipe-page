@@ -92,16 +92,20 @@ li {
     color: hsl(14, 45%, 36%);
     font-weight: 700;
 }
+
 table, td {
     min-width: 100%;
     border-collapse: collapse;
+}
+
+.table-data {
+    margin-left: 2rem;
 }
 
 caption {
     text-align: left;
     margin-bottom: 1rem;
 }
-
 
 .num {
     color: hsl(14, 45%, 36%);
