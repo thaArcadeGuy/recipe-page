@@ -66,12 +66,6 @@ hr {
     border-radius: 1rem;
 }
 
-.prep-time span,
-.instructions span {
-    color: hsl(30, 10%, 34%);
-    font-weight: bold;
-}
-
 ul, 
 ol {
     padding-left: 1.25rem;
