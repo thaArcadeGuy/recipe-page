@@ -32,15 +32,6 @@ img {
     border-radius: 0.6rem;
 }
 
-/*.main .recipe-img,
-.description,
-.prep-time, 
-.ingredients,
-.instructions, hr, 
-.nutrition {
-    margin: 2rem;
-}*/
-
 h1, 
 h2 {
     font-family: "Young Serif", serif;
@@ -124,14 +115,6 @@ caption {
 
 .border-bottom:last-child {
     border-bottom: 0;
-}
-.attribution { 
-    font-size: 11px; 
-    text-align: center; 
-}
-    
-.attribution a { 
-    color: hsl(228, 45%, 44%); 
 }
 
 @media screen and (max-width: 520px) {
